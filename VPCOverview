@@ -1,1 +1,6 @@
-This file is having details on amazon virtual cloud
+VPC Overview
+-----------------
+Amazon Virtual Private Cloud (VPC) lets you provision a logically isolated section of the Amazon Web Service Cloud where you can 
+launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, 
+including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.
+
